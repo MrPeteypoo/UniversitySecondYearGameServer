@@ -1,0 +1,5 @@
+@title Flaky Snakey Server
+@version 1.0
+@author Simon Peter Campbell (n3053620)
+@copyright 2015 Simon Peter Campbell
+@doc "Flaky Snakey Server" is an erlang server application for used the game "Flaky Snakey". It supports up to four players using TCP and UDP connections.
